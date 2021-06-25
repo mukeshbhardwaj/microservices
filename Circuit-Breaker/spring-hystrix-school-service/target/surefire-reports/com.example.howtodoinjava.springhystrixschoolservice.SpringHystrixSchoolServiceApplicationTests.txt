@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.example.howtodoinjava.springhystrixschoolservice.SpringHystrixSchoolServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.673 s <<< FAILURE! - in com.example.howtodoinjava.springhystrixschoolservice.SpringHystrixSchoolServiceApplicationTests
+contextLoads  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
